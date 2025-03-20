@@ -1,4 +1,4 @@
-## Coffee Sales Analysys
+## Coffee Sales Analysis
 
 ![Starbucks Logo](https://github.com/user-attachments/assets/50dfe256-0f9e-4797-a422-0edddb578ba7)
 
